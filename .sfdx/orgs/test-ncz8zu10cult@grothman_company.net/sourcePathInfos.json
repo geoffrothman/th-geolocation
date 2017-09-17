@@ -36,10 +36,10 @@
             "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 306,
-            "modifiedTime": 1505665137000,
-            "changeTime": 1505665137000,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "size": 340,
+            "modifiedTime": 1505667624000,
+            "changeTime": 1505667624000,
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2"
         }
     ],
     [
@@ -47,10 +47,10 @@
         {
             "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1505664898000,
-            "changeTime": 1505664898000,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "size": 170,
+            "modifiedTime": 1505665552000,
+            "changeTime": 1505665552000,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -868,10 +868,10 @@
         {
             "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 165,
-            "modifiedTime": 1505664945000,
-            "changeTime": 1505664945000,
-            "contentHash": "7443426ece5bc685396dea5b472aa94c874fb670",
+            "size": 182,
+            "modifiedTime": 1505665972000,
+            "changeTime": 1505665972000,
+            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -944,92 +944,313 @@
     [
         "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 269,
             "modifiedTime": 1505665137000,
             "changeTime": 1505665137000,
-            "contentHash": "e99f135594bd04345fa30a8e86f221af5cd3636b"
+            "contentHash": "e99f135594bd04345fa30a8e86f221af5cd3636b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 18117,
             "modifiedTime": 1505665137000,
             "changeTime": 1505665137000,
-            "contentHash": "510a42b88c0950427ab4ec7aa558588c9cc360bf"
+            "contentHash": "510a42b88c0950427ab4ec7aa558588c9cc360bf",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5999,
             "modifiedTime": 1505665137000,
             "changeTime": 1505665137000,
-            "contentHash": "ab01ea23802f29326a8d084fc8bbb50f3d40d73c"
+            "contentHash": "ab01ea23802f29326a8d084fc8bbb50f3d40d73c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5659,
             "modifiedTime": 1505665137000,
             "changeTime": 1505665137000,
-            "contentHash": "745583dd5b207d2bfa54927a99eb0bc3a567c290"
+            "contentHash": "745583dd5b207d2bfa54927a99eb0bc3a567c290",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5663,
             "modifiedTime": 1505665137000,
             "changeTime": 1505665137000,
-            "contentHash": "e2c3b90ab6e50fffb2e63e1c7cafe555940e7cbc"
+            "contentHash": "e2c3b90ab6e50fffb2e63e1c7cafe555940e7cbc",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/tabs",
         {
-            "state": "u",
             "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1505665137000,
             "changeTime": 1505665137000,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1505665137000,
             "changeTime": 1505665137000,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1505665552000,
+            "changeTime": 1505665552000,
+            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1505665394000,
+            "changeTime": 1505665394000,
+            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "size": 390,
+            "modifiedTime": 1505666105000,
+            "changeTime": 1505666105000,
+            "contentHash": "8b293536a0b5c864a64ad1c17c5f5a6efac9df47",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1505665552000,
+            "changeTime": 1505665552000,
+            "contentHash": "22ef10b2acb59793801abaf45e483c705bc14c8c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "size": 111,
+            "modifiedTime": 1505665839000,
+            "changeTime": 1505665839000,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1505666063000,
+            "changeTime": 1505666063000,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1505665552000,
+            "changeTime": 1505665552000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1505665552000,
+            "changeTime": 1505665552000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 126,
+            "modifiedTime": 1505665433000,
+            "changeTime": 1505665433000,
+            "contentHash": "9b4234419cef0a2a09d36b256ebd60aac8a1a2b2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1505665394000,
+            "changeTime": 1505665394000,
+            "contentHash": "696b3214008c0232cc260fded1de3ff036b1a0a0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "size": 170,
+            "modifiedTime": 1505665497000,
+            "changeTime": 1505665497000,
+            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1505665394000,
+            "changeTime": 1505665394000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1505665394000,
+            "changeTime": 1505665394000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1505665394000,
+            "changeTime": 1505665394000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1505667624000,
+            "changeTime": 1505667624000,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/staticresources/leaflet.resource",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/staticresources/leaflet.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 374488,
+            "modifiedTime": 1505667624000,
+            "changeTime": 1505667624000,
+            "contentHash": "9acfd85fa1b2ef044659924459bc2c4ec9fb3dc0"
+        }
+    ],
+    [
+        "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/staticresources",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grothman/git/LEARNING/trailhead/geolocation/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1505667624000,
+            "changeTime": 1505667624000,
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa"
         }
     ]
 ]
