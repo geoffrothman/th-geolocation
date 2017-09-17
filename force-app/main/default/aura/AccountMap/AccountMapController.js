@@ -1,8 +1,4 @@
 ({
-    myAction : function(component, event, helper) {
-
-    }
-})({
     jsLoaded: function(component, event, helper) {
  
        var map = L.map('map', {zoomControl: false}).setView([37.784173, -122.401557], 14);
